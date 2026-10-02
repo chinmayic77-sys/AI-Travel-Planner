@@ -1,0 +1,5 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "c:/Users/CHINMAYI C/AI-Travel-Planner/backend/venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true
+}
